@@ -1,0 +1,36 @@
+CLUSTER INDICES SUMMARY
+==================================================
+
+Created: 2025-05-26 16:07:25
+Number of clusters: 4
+Clusters: [1, 2, 3, 4]
+Time points: 224
+
+CLUSTER 1
+--------------------
+Observations: 224
+Index Value - Mean: -0.0000, Std: 0.9978
+Index Value - Range: [-0.6173, 1.6128]
+Frequency - Mean: 0.2768, Std: 0.4474
+
+CLUSTER 2
+--------------------
+Observations: 224
+Index Value - Mean: 0.0000, Std: 0.9978
+Index Value - Range: [-0.8720, 1.1417]
+Frequency - Mean: 0.4330, Std: 0.4955
+
+CLUSTER 3
+--------------------
+Observations: 224
+Index Value - Mean: -0.0000, Std: 0.9978
+Index Value - Range: [-0.6173, 1.6128]
+Frequency - Mean: 0.2768, Std: 0.4474
+
+CLUSTER 4
+--------------------
+Observations: 224
+Index Value - Mean: 0.0000, Std: 0.9978
+Index Value - Range: [-0.1162, 8.5637]
+Frequency - Mean: 0.0134, Std: 0.1149
+
